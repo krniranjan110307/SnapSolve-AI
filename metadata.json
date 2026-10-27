@@ -1,0 +1,6 @@
+{
+  "name": "SnapSolve AI — Visual Learning Assistant",
+  "description": "Open-source visual learning assistant powered by Gemma 4 that analyzes textbook pages, handwritten notes, and scientific diagrams into clear explanations, summaries, key concepts, and interactive practice quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
